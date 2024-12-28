@@ -1,5 +1,5 @@
 
-<img width="712" alt="Screenshot 2024-12-28 at 12 32 20 PM" src="https://github.com/user-attachments/assets/a511b835-3c75-4e58-aacb-3f493f5d843d" />
+<img width="500" alt="Screenshot 2024-12-28 at 12 32 20 PM" src="https://github.com/user-attachments/assets/a511b835-3c75-4e58-aacb-3f493f5d843d" />
 
 
 #### Floor Plan:
@@ -9,11 +9,13 @@
 
 #### Server Flow Chart Side:
 
-![image](https://github.com/user-attachments/assets/21424d95-13c2-4790-ba9e-2dc350968f30)
+<img width="600" alt="Screenshot 2024-12-28 at 12 39 09 PM" src="https://github.com/user-attachments/assets/13382206-7a61-42c4-8c23-18650f6de13b" />
+
 
 #### Client Flow Chart Side:
 
-![Uploading image.png…]()
+<img width="600" alt="Screenshot 2024-12-28 at 12 39 31 PM" src="https://github.com/user-attachments/assets/40999a0d-48a6-4883-9d0c-36d6b50c2042" />
+
 
 #### Key Features:
 - **TCP/IP Communication**: The system features two separate modules communicating over TCP/IP using socket programming, simulating the control of household devices.
